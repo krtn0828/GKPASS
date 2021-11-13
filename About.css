@@ -1,0 +1,18 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/54f10f5226b3be66f1a61d97979e58a101a289ee154ddcdb9bf3bc76084da7f1eea1ddfd0bcd4dca20caaa8e66f06a014a6438bf5193ffead94209_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 465px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 20px 0 38px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 558px;
+  }
+}
